@@ -1,19 +1,18 @@
 h1 {
-  color: #FF5733;
+  color: #581845;
   text-align: center;
 }
 h2 {
-  color: yellow;
+  color:#ECA1DB;
   font-style: italic;
   text-align: center;
 }
 p {
   font-family: fantasy;
+  text-align: center;
 }
 ol {
   line-height: 60px;
   font-style: oblique;
-}
-img {
   text-align: center;
 }
