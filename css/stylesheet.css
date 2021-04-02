@@ -1,0 +1,19 @@
+h1 {
+  color: #FF5733;
+  text-align: center;
+}
+h2 {
+  color: yellow;
+  font-style: italic;
+  text-align: center;
+}
+p {
+  font-family: fantasy;
+}
+ol {
+  line-height: 60px;
+  font-style: oblique;
+}
+img {
+  text-align: center;
+}
