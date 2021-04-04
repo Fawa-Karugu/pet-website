@@ -1,5 +1,5 @@
 # PET WEBSITE
-#### A simple webpage about my pet dog Yuki}, {April 4th 2021}
+#### A simple webpage about my pet dog Yuki created on April 4th April
 #### By **Faith Wanjeri Karugu**
 ## Description
 This webpage was created in order to let my social circle know more about my pet dog, Yuki. I have always received so many questions about his breed and why he acts the way he does. This webpage details all this information and I can simply share it to those who are curious about him.
