@@ -13,4 +13,3 @@
 {In case you run into any issues, kindly send me an email via fawandegwa@gmail.com}
 ### License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](/LICENSE)
-Copyright (c) {2021} **{List of contributors or company name}**
