@@ -9,10 +9,10 @@ h2 {
 }
 p {
   font-family: fantasy;
-  text-align: center;
+  text-align: left;
 }
 ol {
   line-height: 60px;
   font-style: oblique;
-  text-align: center;
+  text-align: left;
 }
